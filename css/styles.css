@@ -1,0 +1,102 @@
+
+/* 
+    body class properties
+*/
+body{
+    margin: 0 20%;
+    font-family: 'Merriweather', serif;
+}
+
+/* 
+    h1 class properties
+*/
+h1{
+    color: #00428d;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+/* 
+    h2 class properties
+*/
+h2{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    line-height: 2;
+}
+
+/* 
+    h3 class properties
+*/
+h3{
+    color: black;
+    border: auto 20% auto 20%;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* 
+    h5 class properties
+*/
+h5{
+    color: black;
+    border: auto 20% auto 20%;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* 
+    description class properties
+*/
+.description{
+    color: black;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.top-menu{
+    text-align: right;
+    height: 40px;
+    border-bottom: 0px;
+}
+
+
+.home{
+    margin-right: 1%;
+}
+
+.presentations{
+    margin-right: 1%;
+}
+
+.repositories{
+    margin-right: 1%;
+}
+
+.top-container{
+    margin-bottom: 100px;
+}
+
+.contact-me{
+    margin-top: 5%;
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.bottom-container{
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.linkedin{
+    margin-right: 20px;
+}
+
+.futur-upc{
+    margin: auto;
+}
+
+.copyright{
+    margin-top: 3%;
+}
